@@ -423,9 +423,9 @@ body: [
 ## 相关链接
 [![Edit example](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/snippet-composer-example-b4klip?file=/src/index.js)
 
-  [![github](./img/github.svg)](https://github.com/ascodelife/snippet-composer)
+[![github](./img/github.svg)](https://github.com/ascodelife/snippet-composer)
 
-[![npm](./img/npm.svg)](https://github.com/ascodelife/snippet-composer)
+[![npm](./img/npm.svg)](https://www.npmjs.com/package/snippet-composer)
 
 
 1. [snippet-composer 在 vscode & nodejs 中的示例](https://github.com/ascodelife/snippet-composer/tree/master/example)
