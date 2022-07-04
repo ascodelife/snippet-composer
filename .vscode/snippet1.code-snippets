@@ -1,0 +1,17 @@
+{
+  "mysql": {
+    "prefix": ["ms"],
+    "body": [
+      "import mysql from mysql",
+      "mysql.connect($USER_NAME,$USER_PASSWORD,$1);"
+    ]
+  },
+  "assert": {
+    "prefix": ["as"],
+    "body": [
+      "import assert from assert",
+      "assert(a,1);\rassert(b,$1);\rassert(c,$2);",
+      "$0"
+    ]
+  }
+}

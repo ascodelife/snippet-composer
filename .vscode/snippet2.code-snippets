@@ -1,0 +1,9 @@
+{
+  "utils": {
+    "prefix": ["utils"],
+    "body": [
+      "function delay() {\r\tsleep($1);\r}",
+      "function getPort() {\r\treturn ${2};\r}"
+    ]
+  }
+}

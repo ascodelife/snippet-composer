@@ -1,0 +1,1 @@
+{"Test Case":{"prefix":["tc"],"description":"Test Case","body":["import mysql from mysql","import assert from assert","mysql.connect(admin,123,$1);\rassert(a,1);\rassert(b,$2);\rassert(c,$3);\r$0","function delay() {\r\tsleep($4);\r}\rfunction getPort() {\r\treturn ${1};\r}"]}}
